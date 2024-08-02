@@ -1,5 +1,5 @@
 # UFT-One-2024-Solutions
-### UFT-One-2024 L120 and L350 -Solutions
+### UFT-One 2024 L120 and L350 Solutions
 
 ### Files consist of:
 * 07/09/2024  09:35 PM    <DIR>          04_BasicWindowsTest
